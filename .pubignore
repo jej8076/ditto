@@ -1,0 +1,11 @@
+ditto/macos/Flutter/ephemeral/Flutter-Generated.xcconfig
+ditto/macos/Flutter/ephemeral/flutter_export_environment.sh
+ditto/macos/Pods/Local Podspecs/FlutterMacOS.podspec.json
+ditto/macos/Pods/Local Podspecs/shared_preferences_macos.podspec.json
+ditto/macos/Pods/Pods.xcodeproj/project.pbxproj
+ditto/macos/Pods/Pods.xcodeproj/xcuserdata/rafaelbarbosa.xcuserdatad/xcschemes/FlutterMacOS.xcscheme
+ditto/macos/Pods/Pods.xcodeproj/xcuserdata/rafaelbarbosa.xcuserdatad/xcschemes/Pods-Runner.xcscheme
+ditto/macos/Pods/Pods.xcodeproj/xcuserdata/rafaelbarbosa.xcuserdatad/xcschemes/xcschememanagement.plist
+ditto/macos/Pods/Target Support Files/FlutterMacOS/FlutterMacOS.debug.xcconfig
+ditto/macos/Pods/Target Support Files/FlutterMacOS/FlutterMacOS.release.xcconfig
+media
